@@ -1,5 +1,4 @@
 FROM golang:1.17
-MAINTAINER jay@laioffer.com
 
 
 WORKDIR /go/src/appstore
