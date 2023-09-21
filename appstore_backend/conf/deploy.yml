@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.128.0.2:9200/"
+  username: "zee"
+  password: "jjhuang123"
+
+gcs:
+  bucket: "zee-appstore-bucket"
+
+token:
+  secret: "secret"
