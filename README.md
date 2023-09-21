@@ -1,6 +1,6 @@
 # Store+: A Cloud and React based App Purchase Platform with Go
 
-Store+ is a cutting-edge platform for creating, browsing, and searching software. It harnesses the power of Go, React, and various cloud technologies to provide a seamless app purchasing experience.
+AppStore is a cutting-edge platform for creating, browsing, and searching software. It harnesses the power of Go, React, and various cloud technologies to provide a seamless app purchasing experience.
 
 ## Key Features & Achievements
 
