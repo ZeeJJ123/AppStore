@@ -1,20 +1,25 @@
 # Store+: A Cloud and React based App Purchase Platform with Go
 
-AppStore is a cutting-edge platform for creating, browsing, and searching software. It harnesses the power of Go, React, and various cloud technologies to provide a seamless app purchasing experience.
+## Overview
 
-## Key Features & Achievements
+Store+ is a cutting-edge platform designed for users to create, browse, and search for software. Integrating with Stripe's REST API for checkout, it provides an optimized app purchasing experience, powered by Go, React, and Google Cloud technologies.
 
-- **Software Browsing & Purchase**: 
-  Seamlessly create, browse, and search for software solutions.
-  
-- **Stripe Integration**: 
-  Incorporates Stripe's REST API for efficient and secure checkout processes.
+## Features
 
-- **Go Backend**: 
-  Leveraging the power of Golang to deliver a robust web service that handles requests swiftly and returns responses in real-time.
-  
-- **Elasticsearch**: 
-  Enhanced search capabilities, providing users with fast and relevant search results.
-  
-- **Google Cloud Deployment**: 
-  The application is hosted on Google Cloud, using both App Engine and Compute Engine for optimized, scalable deployment.
+- **Software Browsing & Purchase**: Create, browse, and search for software solutions with ease.
+
+- **Stripe Integration**: Seamless integration with Stripe's REST API ensures efficient and secure checkout processes.
+
+- **Backend with Go**: Utilizing Golang to handle web requests swiftly and provide real-time responses.
+
+- **Elasticsearch Integration**: Offers advanced search capabilities, ensuring users receive fast and relevant results.
+
+- **Google Cloud Deployment**: Optimized hosting on Google Cloud using both App Engine and Compute Engine.
+
+## Technology Stack
+
+- **Backend**: Go
+- **Database**: Elasticsearch
+- **Frontend**: React, Javascript
+- **Deployment**: Google App Engine, Google Compute Engine
+
