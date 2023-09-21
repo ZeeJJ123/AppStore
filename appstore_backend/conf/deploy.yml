@@ -1,10 +1,10 @@
 elasticsearch:
-  address: "http://10.128.0.2:9200/"
-  username: "zee"
-  password: "jjhuang123"
+  address: 
+  username: 
+  password: 
 
 gcs:
-  bucket: "zee-appstore-bucket"
+  bucket: 
 
 token:
-  secret: "secret"
+  secret: 
