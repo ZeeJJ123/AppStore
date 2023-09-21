@@ -2,7 +2,7 @@
 
 ## Overview
 
-Store+ is a cutting-edge platform designed for users to create, browse, and search for software. Integrating with Stripe's REST API for checkout, it provides an optimized app purchasing experience, powered by Go, React, and Google Cloud technologies.
+AppStore is a cutting-edge platform designed for users to create, browse, and search for software. Integrating with Stripe's REST API for checkout, it provides an optimized app purchasing experience, powered by Go, React, and Google Cloud technologies.
 
 ## Features
 
